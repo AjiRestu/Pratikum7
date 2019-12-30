@@ -60,6 +60,7 @@ contoh:
 -  view_nilai.py berisi modul untuk: cetak_daftar_nilai, cetak_hasil_pencarian 
 -  input_nilai.py berisi modul untuk: input_data yang meminta pengguna memasukkan data. 
 -  main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada)
+
 Package & Module
 ![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/pycharm3.PNG)
 
