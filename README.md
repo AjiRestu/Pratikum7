@@ -55,21 +55,26 @@ Package & Module
 
 daftar_nilai
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Daftar%20Nilai%201.PNG) 
+
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Daftar%20Nilai%202.PNG)
 
 input_nilai
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Input%20Nilai%201.PNG) 
+
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Input%20Nilai%202.PNG)  
 
 view_nilai
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/View%20Nilai%201.PNG) 
+
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/View%20Nilai%202.PNG)  
 
 main
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Main%201.PNG) 
+
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Main%202.PNG)  
 
 Output
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Hasil%20Output.PNG) 
+
 !(https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Hasil%20Output%202.PNG?raw=true)
 
